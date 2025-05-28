@@ -17,6 +17,9 @@ The ML Coverage framework addresses the challenge of efficient test selection in
 
 ## How It Works
 
+<img width="620" alt="image" src="https://github.com/user-attachments/assets/eedec847-f1a4-45df-aaeb-47c2d9d3dc89" />
+
+
 ### Core Architecture
 
 The system consists of four main components:
